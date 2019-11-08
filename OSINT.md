@@ -292,8 +292,8 @@
 * [Tofo.me](https://tofo.me)
 * [Worldcam](http://worldc.am)
 * [Seestory](https://insta-stories.ru/)
-* [Seestory](storyinsta.com)
-* [Story](storiesig.com)
+* [Seestory](https://storyinsta.com)
+* [Story](https://storiesig.com)
 
 ### Pinterest
 
