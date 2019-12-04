@@ -19,6 +19,8 @@ ____  _______     _______ ____  ____  _____
 
 ## Что почитать:
 
+* [Хакер2019](https://xakep.ru/2019/12/02/malware-guide/)
+
 #### [↑](#Content)Серия статей на Хакере:
 * [Тык0](https://xakep.ru/2018/10/25/nezumi-hacking-guide-1/)
 * [Тык1](https://xakep.ru/2018/10/25/nezumi-hacking-guide-2/)   
